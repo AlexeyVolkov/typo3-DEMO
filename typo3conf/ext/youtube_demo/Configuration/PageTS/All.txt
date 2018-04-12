@@ -1,0 +1,7 @@
+#
+# PageTS for YouTube DEMO
+#
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:youtube_demo/Configuration/PageTS/RTE.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:youtube_demo/Configuration/PageTS/TCEFORM.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:youtube_demo/Configuration/PageTS/TCEMAIN.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:youtube_demo/Configuration/PageTS/Mod/WebLayout/BackendLayouts.txt">
